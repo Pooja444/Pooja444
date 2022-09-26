@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Pooja Kulkarni and I am currently pursuing my MS degree in Computer Science at Arizona State University
+I have 3+ years of work experience. I am very passionate about Computer Science and Software Engineering. 🤓 💻
+
+✨ Checkout my website here ✨ [poojakulkarni.dev](https://www.poojakulkarni.dev/)
+
+✨ Connect with me on LinkedIn! ✨ https://www.linkedin.com/in/poojakulkarni562/
+
+
 <!--
 **Pooja444/Pooja444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
