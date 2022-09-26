@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Pooja Kulkarni and I am currently pursuing my MS degree in Computer Science at Arizona State University
-I have 3+ years of work experience. I am very passionate about Computer Science and Software Engineering. 🤓 💻
+My name is Pooja Kulkarni and I am currently pursuing my MS degree in Computer Science at Arizona State University. I have 3+ years of work experience. I am very passionate about Computer Science and Software Engineering. 🤓 💻
+
 
 ✨ Checkout my website here ✨ [poojakulkarni.dev](https://www.poojakulkarni.dev/)
 
