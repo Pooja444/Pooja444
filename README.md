@@ -3,9 +3,13 @@
 My name is Pooja Kulkarni and I am currently pursuing my MS degree in Computer Science at Arizona State University. I have 3+ years of work experience. I am very passionate about Computer Science and Software Engineering. 🤓 💻
 
 
+Recently I have started contributing to the open source community. So far I have raised 6 pull requests, contributing to 5 repositories and I am absolutely loving it!! 😍🙌🏻
+
 ✨ Checkout my website here ✨ [poojakulkarni.dev](https://www.poojakulkarni.dev/)
 
-✨ Connect with me on LinkedIn! ✨ https://www.linkedin.com/in/poojakulkarni562/
+✨ Connect with me on LinkedIn! ✨ [poojakulkarni562](https://www.linkedin.com/in/poojakulkarni562/)
+
+✨ Checkout my blogs on Medium ✨ [@poojakulkarni562](https://medium.com/@poojakulkarni562)
 
 
 <!--
