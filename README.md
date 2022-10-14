@@ -20,12 +20,12 @@ Recently I have started **contributing to the open source community**. So far I 
 - **🧰 Tools/frameworks** - Spring MVC, Spring Boot, Hibernate, JDBC, Gradle, Maven, Git, Jenkins, Apache Airflow, Swagger, Grafana
 - **🗄 Data management systems** - PostgreSQL, MySQL, DB2, H2, Sybase, MongoDB, AWS AuroraDB
 - **💻 Web Development** - HTML, CSS, Bootstrap, Angular, React, Next.js, Thymeleaf, NodeJS, ExpressJS, GraphQL
-- **☁ Cloud Technologie{s** - Docker, Kubernetes, AWS (EC2, S3, SQS), Cloudflare
+- **☁ Cloud Technologies** - Docker, Kubernetes, AWS (EC2, S3, SQS), Cloudflare
 - **🤓 Other applications/technologies** - IBM MQ, Linux/Unix, REST APIs, SOAP services, XML, JSON, XSLT, Jira, Confluence
 
 
 
-## Get me know me better and let's connect!
+## Get to know me better and let's connect!
 
 ✨ Checkout my website here ✨ [poojakulkarni.dev](https://www.poojakulkarni.dev/)
 
