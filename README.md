@@ -24,6 +24,10 @@ Recently I have started **contributing to the open source community**. So far I 
 - **🤓 Other applications/technologies** - IBM MQ, Linux/Unix, REST APIs, SOAP services, XML, JSON, XSLT, Jira, Confluence
 
 
+## Have a look at my awesome Holopin badges! 🏷
+
+[![@pooja444's Holopin board](https://holopin.me/pooja444)](https://holopin.io/@pooja444)
+
 
 ## Get to know me better and let's connect!
 
